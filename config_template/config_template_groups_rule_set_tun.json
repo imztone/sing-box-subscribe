@@ -799,7 +799,7 @@
         "tag": "geosite-custom",
         "type": "remote",
         "format": "source",
-        "url": "https://gist.githubusercontent.com/imztone/65d3e0526db798e9089185bb4a91961d/raw/55d1790f1c984cb83064bad1ad552a553872d2f3/sing-box-list.json",
+        "url": "https://gist.githubusercontent.com/imztone/65d3e0526db798e9089185bb4a91961d/raw/0cbde5277548beaa43d97bb6546b68e10de78130/sing-box-list.json",
         "download_detour": "direct"
       }
     ]
